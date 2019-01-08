@@ -17,6 +17,12 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="col-full">
 
+			
+			
+			<?php
+				echo 'Loe ka meie e-poe <a href="http://rasmuslaane.ikt.khk.ee/wordpress5/e-poe-kasutustingimused/">kasutustingimusi</a>.';
+			?>
+			
 			<?php
 			/**
 			 * Functions hooked in to storefront_footer action
@@ -26,7 +32,7 @@
 			 */
 			do_action( 'storefront_footer' );
 			?>
-
+			
 		</div><!-- .col-full -->
 	</footer><!-- #colophon -->
 
