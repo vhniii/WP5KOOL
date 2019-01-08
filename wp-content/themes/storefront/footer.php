@@ -18,11 +18,7 @@
 		<div class="col-full">
 
 			
-			
-			<?php
-				echo 'Loe ka meie e-poe <a href="http://rasmuslaane.ikt.khk.ee/wordpress5/e-poe-kasutustingimused/">kasutustingimusi</a>.';
-			?>
-			
+						
 			<?php
 			/**
 			 * Functions hooked in to storefront_footer action
@@ -30,6 +26,7 @@
 			 * @hooked storefront_footer_widgets - 10
 			 * @hooked storefront_credit         - 20
 			 */
+			echo 'Loe ka meie e-poe <a href="http://rasmuslaane.ikt.khk.ee/wordpress5/e-poe-kasutustingimused/">kasutustingimusi</a>.';
 			do_action( 'storefront_footer' );
 			?>
 			
