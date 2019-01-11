@@ -1,1 +1,2 @@
 [08-Jan-2019 11:20:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rasmuslaaneiktkh/public_html/wordpress5/wp-content/themes/storefront/footer.php on line 28
+[11-Jan-2019 20:18:44 UTC] PHP Parse error:  syntax error, unexpected 'storefront_after_footer' (T_STRING), expecting ',' or ';' in /home/rasmuslaaneiktkh/public_html/wordpress5/wp-content/themes/storefront/footer.php on line 38
