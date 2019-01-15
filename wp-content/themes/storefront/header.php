@@ -12,6 +12,10 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+<meta charset="UTF-8">
+<meta name="description" content="RL.ee | Pood sinu igapäevastele seadmetele ning vabaaja toodetele">
+<meta name="keywords" content="vabaaja tooted, telefonide kaitseümbrised, telefonide lisavarustus">
+<meta name="author" content="Rasmus Laane">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
