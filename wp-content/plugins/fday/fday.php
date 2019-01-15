@@ -7,4 +7,10 @@
 */
 
 
+function fd-falling-hearts {
+	
+	<i class="fas fa-heart"></i>
+	
+}
+
 ?>
