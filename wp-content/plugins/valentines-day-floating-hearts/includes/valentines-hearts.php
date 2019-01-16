@@ -76,7 +76,7 @@ function dc_valentines_heart() {
 					heart[i].style.color=heartcolor[randommaker(heartcolor.length)]
 					heart[i].style.zIndex=1000
 					heart[i].sink=sinkspeed*heart[i].size/5
-					if (heartingzone==1) {heart[i].posx=randommaker(marginright-heart[i].size-200)}
+					if (heartingzone==1) {heart[i].posx=randommaker(marginright-heart[i].size-500)}
 					if (heartingzone==2) {heart[i].posx=randommaker(marginright/2-heart[i].size)}
 					if (heartingzone==3) {heart[i].posx=randommaker(marginright/2-heart[i].size)+marginright/4}
 					if (heartingzone==4) {heart[i].posx=randommaker(marginright/2-heart[i].size)+marginright/2}
