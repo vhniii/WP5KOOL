@@ -26,7 +26,7 @@ function dc_valentines_heart() {
 	// Set the letter that creates your heartflake (recommended: * )
 	var heartletter="<i class='dcfa dcfa-heart' style='color:"+heartcolor[randommaker(heartcolor.length)]+" !important;' ></i>"
 	// Set the speed of sinking (recommended values range from 0.3 to 2)
-	var sinkspeed=1.8
+	var sinkspeed=1.0
 	// Set the maximum-size of your heartflakes
 	var heartmaxsize=30
 	// Set the minimal-size of your heartflakes
