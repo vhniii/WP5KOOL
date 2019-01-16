@@ -28,9 +28,9 @@ function dc_valentines_heart() {
 	// Set the speed of sinking (recommended values range from 0.3 to 2)
 	var sinkspeed=1.0
 	// Set the maximum-size of your heartflakes
-	var heartmaxsize=30
+	var heartmaxsize=50
 	// Set the minimal-size of your heartflakes
-	var heartminsize=12
+	var heartminsize=22
 	// Set the hearting-zone
 	// Set 1 for all-over-hearting, set 2 for left-side-hearting
 	// Set 3 for center-hearting, set 4 for right-side-hearting
