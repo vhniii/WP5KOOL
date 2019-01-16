@@ -2,8 +2,6 @@
 
 $dc_fh_options = get_option( 'dc_fh_options' );
 $display_hearts = $dc_fh_options['dc_fh_display'];
-$display_hearts = $dc_fh_options['dc_fh_display'];
-$display_hearts = $dc_fh_options['dc_fh_display'];
 
 /**** actions/hooks/filters ****/
 if ( $display_hearts == 'on' ) {
