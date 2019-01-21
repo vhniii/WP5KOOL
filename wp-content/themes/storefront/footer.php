@@ -27,7 +27,7 @@
 			 * @hooked storefront_credit         - 20
 			 */
 			
-// 			do_action( 'storefront_footer' );
+			do_action( 'storefront_footer' );
 			echo 'Loe ka meie e-poe <a href="http://rasmuslaane.ikt.khk.ee/wordpress5/e-poe-kasutustingimused/">kasutustingimusi</a>.';
 			?>
 			
