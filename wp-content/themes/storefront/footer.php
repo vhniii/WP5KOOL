@@ -14,7 +14,7 @@
 
 	<?php do_action( 'storefront_before_footer' ); ?>
 
-<!-- 	<footer id="colophon" class="site-footer" role="contentinfo"> -->
+	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="col-full">
 
 			
@@ -27,7 +27,7 @@
 			 * @hooked storefront_credit         - 20
 			 */
 			
-			do_action( 'storefront_footer' );
+// 			do_action( 'storefront_footer' );
 			echo 'Loe ka meie e-poe <a href="http://rasmuslaane.ikt.khk.ee/wordpress5/e-poe-kasutustingimused/">kasutustingimusi</a>.';
 			?>
 			
